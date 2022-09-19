@@ -4,6 +4,8 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.*;
 import org.openqa.selenium.Keys;
+import qa.volotea.com.interactions.ScrollDown;
+import qa.volotea.com.interactions.WaitInteraction;
 import qa.volotea.com.models.DestinationData;
 import qa.volotea.com.models.OriginData;
 
